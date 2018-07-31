@@ -8,4 +8,4 @@
 
 ![AlexCG Design](https://github.com/AlexCGDesign/Pagina-web-efecto-skew/blob/master/Pagina%20web%20-%20Skew/Mockup.png)
 
-### [Hecho por AlexCG Design](https://www.youtube.com/c/AlexCGDesign?sub_confirmation=1)
+### Hecho por: [AlexCG Design](https://www.youtube.com/c/AlexCGDesign?sub_confirmation=1)
